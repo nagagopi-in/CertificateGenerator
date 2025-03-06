@@ -1,5 +1,7 @@
 # Certificate_creation-
 
+Credits: https://github.com/surabhiojha12/Certificate_creation-.git
+
 Overview
 ----------
 Create certificate with HTML,CSS AND JSPDF, for events.
